@@ -15,7 +15,6 @@
  - **[SmartMining_Team.sol](SmartMining_Team.sol)**
  - Contract: https://etherscan.io/address/0x9022249225a8f5cf7cdc9355caffb4654b1e082a#code
  \
- \
 ## 'CMR_Mining'-contract
  - **[CMR_Mining.sol](SmartMining.sol)**
    Contract: https://etherscan.io/address/0x8B807547Cd78E6211BFf32f9ef115363fe36eb16#code \
