@@ -1,4 +1,4 @@
-### 'CMR_Mining'-contract
+## 'CMR_Mining'-contract
  - **[CMR_Mining.sol](SmartMining.sol)**
    Contract: https://etherscan.io/address/0x8B807547Cd78E6211BFf32f9ef115363fe36eb16#code \
    Frontend: http://cmr.spreadblock.com
