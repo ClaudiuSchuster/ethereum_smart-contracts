@@ -2,7 +2,7 @@
 ![SmartMining](https://avatars0.githubusercontent.com/u/41874219?s=100&u=c756c7bde56bf6d6e6d6b6d15b75049b4fed68c8)
 
 ### 'mining-pool & token-distribution'-contract
- - **[SmartMining.sol](SmartMining.sol)**
+ - **[SmartMining.sol](SmartMining.sol)** \
    Contract: https://etherscan.io/address/0x89abe09fd87559ea272df627e38156705304bd80#code \
    Token: https://etherscan.io/token/0x89abe09fd87559ea272df627e38156705304bd80
  
@@ -16,7 +16,7 @@
 
 
 ## 'CMR_Mining'-contract
- - **[CMR_Mining.sol](CMR_Mining.sol)**
+ - **[CMR_Mining.sol](CMR_Mining.sol)** \
    Contract: https://etherscan.io/address/0x8B807547Cd78E6211BFf32f9ef115363fe36eb16#code \
    Frontend: http://cmr.spreadblock.com
  
