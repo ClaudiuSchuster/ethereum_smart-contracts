@@ -1,5 +1,4 @@
-## https://smart-mining.io mining pool smart-contracts
-![SmartMining](https://avatars0.githubusercontent.com/u/41874219?s=100&u=c756c7bde56bf6d6e6d6b6d15b75049b4fed68c8)
+##![SmartMining](https://avatars0.githubusercontent.com/u/41874219?s=100&u=c756c7bde56bf6d6e6d6b6d15b75049b4fed68c8) https://smart-mining.io mining pool smart-contracts
 
 ### 'mining-pool & token-distribution'-contract
  - **[SmartMining.sol](SmartMining.sol)** \
